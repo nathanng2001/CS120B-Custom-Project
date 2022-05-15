@@ -40,30 +40,16 @@
 
  > CS120B Wiring_Overview![CS120B_Custom_Lab_Wiring_Diagram](https://user-images.githubusercontent.com/39098603/168495806-99d8620a-b18f-4b07-ac8e-d155a2c704c2.png)
 
- > <!--## Phase III
- > You will need to schedule a check-in with the TA (during lab hours or office hours). Your entire team must be present. 
- > * Before the meeting you should perform a sprint plan like you did in Phase II
- > * In the meeting with your TA you will discuss: 
- >   - How effective your last sprint was (each member should talk about what they did)
- >   - Any tasks that did not get completed last sprint, and how you took them into consideration for this sprint
- >   - Any bugs you've identified and created issues for during the sprint. Do you plan on fixing them in the next sprint or are they lower priority?
- >   - What tasks you are planning for this next sprint.-->
-
- > <!--## Final deliverable
- > All group members will give a demo to the TA during lab time. The TA will check the demo and the project GitHub repository and ask a few questions to all the team members. 
- > Before the demo, you should do the following:
- > * Complete the sections below (i.e. Screenshots, Installation/Usage, Testing)
- > * Plan one more sprint (that you will not necessarily complete before the end of the quarter). Your In-progress and In-testing columns should be empty (you are not doing more work currently) but your TODO column should have a full sprint plan in it as you have done before. This should include any known bugs (there should be some) or new features you would like to add. These should appear as issues/cards on your Kanban board. -->
  
  ## Screenshots
  > <!--Screenshots of the input/output after running your application-->
- > CS100 Input![CS100 Input](https://user-images.githubusercontent.com/39098603/131290296-fad61bfb-e65a-46e7-b89c-c773af85e7c7.png)
+ > Task Diagram ![task_diagram](https://user-images.githubusercontent.com/39098603/168495901-d79324dd-a96e-45a6-83cb-fd7ad7465252.png)
 
- > CS100 Sample_Board![CS100 Sample_Board](https://user-images.githubusercontent.com/39098603/131290591-8f3b67a0-c269-4482-aa20-08705a60029b.png)
-
- > CS100 Sample_Game![CS100 Sample_Game](https://user-images.githubusercontent.com/39098603/131290939-04ba732e-03e7-4330-acd3-934321d7032e.png)
-
- > CS100 Sample_Output![CS100 Sample_Output](https://user-images.githubusercontent.com/39098603/131290953-f3d1ac59-c675-4995-bb05-4444cde9e8bc.png)
+> Game State Machine![game_sm](https://user-images.githubusercontent.com/39098603/168496023-7007cc06-9f3e-4c79-a8e7-a78faf6ec212.png)
+> Remote State![photoresistor_sm](https://user-images.githubusercontent.com/39098603/168496050-d90069c1-d65f-45ab-8c6a-e30957efdfe5.png)
+> Photoresistor State Machine![photoresistorcheck_sm](https://user-images.githubusercontent.com/39098603/168496059-3c6e1d2c-9ec3-4e5a-ac4e-f419377140e1.png)
+> PhoresistorCheck State Machine![remote_sm](https://user-images.githubusercontent.com/39098603/168496034-2d23e9be-0537-4974-a0db-c796de9283be.png)
+> 
 
  ## Installation/Usage
  > <!--Instructions on installing and running your application-->
