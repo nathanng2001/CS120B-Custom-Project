@@ -23,7 +23,7 @@
  > <!--* Why is it important or interesting to you?-->
  > Bop It is a handheld game where players perform a series of actions based on audio output. The original game had three actions. “Bop it” is associated with a button, “twist it,” a lever, and “pull it” a handle. Each action performed in a set amount of time earns a point, and the aim of the game is to score as many points as possible. 
 
-Bop It will be single player. The actions will consist of “Bop It,” “Block It,” and “Pull It.” The “Bop It” action will be the remote control buttons (1-9), “Block It” the photoresistor, and “Pull It” the joystick module. The LCD screen will display the action to be done. The initial score will be 0, and will increment by 1 for each correct action done within the time limit, 2 seconds. The game ends when an incorrect action is performed or the player did not perform any action in the time limit. The active buzzer will turn on when the game is over. Pressing the button will reset the game. 
+> Bop It will be single player. The actions will consist of “Bop It,” “Block It,” and “Pull It.” The “Bop It” action will be the remote control buttons (1-9), “Block It” the photoresistor, and “Pull It” the joystick module. The LCD screen will display the action to be done. The initial score will be 0, and will increment by 1 for each correct action done within the time limit, 2 seconds. The game ends when an incorrect action is performed or the player did not perform any action in the time limit. The active buzzer will turn on when the game is over. Pressing the button will reset the game. 
 
  > <!--## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
@@ -35,18 +35,10 @@ Bop It will be single player. The actions will consist of “Bop It,” “Block
  > * Complete your first *sprint planning* meeting to plan out the next 7 days of work.
  >   * Create smaller development tasks as issues and assign them to team members. Place these in the `TODO` column.
  >   * These cards should represent roughly 7 days worth of development time for your team, taking you until your first meeting with the TA-->
-## Class Diagram
+## Wiring Diagram
  > <!--Include a class diagram(s) for each design pattern and a description of the diagram(s). Your class diagram(s) should include all the main classes you plan for the project. This should be in sufficient detail that another group could pick up the project this point and successfully complete it. Use proper OMT notation (as discussed in the course slides). You may combine multiple design patterns into one diagram if you'd like, but it needs to be clear which portion of the diagram represents which design pattern (either in the diagram or in the description). -->
 
- > The main class will create a game object from the game class, which will handle the turn based aspect of the game. The game class will have access to compstrat, ship, and factory classes. The compstrat class will be used to generate moves for the CPU, choosing a strategy better suited for different points in the game. The factory class will create the ship objects for both the player and the CPU, and the ship class will be used in conjunction with the game class to handle hit detection, misses, ship health, and ship coordinates on the boards. 
- 
- > CS100 UML_Overview![CS100 UML_Overview](https://user-images.githubusercontent.com/39098603/131289412-22e85e28-1e5d-4827-9cb9-dc0080d9ecb5.png)
-
- > CS100 Game![CS100 Game](https://user-images.githubusercontent.com/39098603/131289479-f968355f-2e97-4019-becb-07729c149113.png)
-
- > CS100 CompStrat![CS100 CompStrat](https://user-images.githubusercontent.com/39098603/131289513-596545cf-1099-4726-b39f-ec146b434cdf.png)
-
- > CS100 Ship/Factory![CS100 Ship:Factory](https://user-images.githubusercontent.com/39098603/131289754-41f8cab3-56b1-4694-84a8-03a45da0ed49.png)
+ > CS120B Wiring_Overview![CS120B_Custom_Lab_Wiring_Diagram](https://user-images.githubusercontent.com/39098603/168495806-99d8620a-b18f-4b07-ac8e-d155a2c704c2.png)
 
  > <!--## Phase III
  > You will need to schedule a check-in with the TA (during lab hours or office hours). Your entire team must be present. 
