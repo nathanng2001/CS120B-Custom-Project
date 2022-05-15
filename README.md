@@ -58,20 +58,3 @@
 > JoystickCheck State Machine![joystickcheck_sm](https://user-images.githubusercontent.com/39098603/168496118-fcc9ddab-d5eb-4cd0-b10f-8a2671326fe2.png)
 
 > ResetButton State Machine![resetbutton_sm](https://user-images.githubusercontent.com/39098603/168496127-baaa3b1a-9fd0-4e59-abf1-556278725e33.png)
-
-
- ## Installation/Usage
- > <!--Instructions on installing and running your application-->
- > Create a local directory on your local machine, and clone the Battleship directory.
- > ```sh
- > git clone <https://github.com/cs100/final-project-brookenathanshankar.git>
- > ```
- > To play, first compile the files
- > ```sh
- > g++ main.cpp game.cpp compstrat.cpp -o main
- > ```
- > Then run `./main` to play
- > 
- ## Testing
- > <!--How was your project tested/validated? If you used CI, you should have a "build passing" badge in this README.-->
- > Our project was tested through our units tests files via CMake. We tested primarily for out of bounds, and invalid/incorrect user input.
