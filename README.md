@@ -46,10 +46,19 @@
  > Task Diagram ![task_diagram](https://user-images.githubusercontent.com/39098603/168495901-d79324dd-a96e-45a6-83cb-fd7ad7465252.png)
 
 > Game State Machine![game_sm](https://user-images.githubusercontent.com/39098603/168496023-7007cc06-9f3e-4c79-a8e7-a78faf6ec212.png)
-> Remote State![photoresistor_sm](https://user-images.githubusercontent.com/39098603/168496050-d90069c1-d65f-45ab-8c6a-e30957efdfe5.png)
-> Photoresistor State Machine![photoresistorcheck_sm](https://user-images.githubusercontent.com/39098603/168496059-3c6e1d2c-9ec3-4e5a-ac4e-f419377140e1.png)
-> PhoresistorCheck State Machine![remote_sm](https://user-images.githubusercontent.com/39098603/168496034-2d23e9be-0537-4974-a0db-c796de9283be.png)
-> 
+
+> Remote State Machine![remote_sm](https://user-images.githubusercontent.com/39098603/168496034-2d23e9be-0537-4974-a0db-c796de9283be.png)
+
+> Photoresistor State Machine![photoresistor_sm](https://user-images.githubusercontent.com/39098603/168496050-d90069c1-d65f-45ab-8c6a-e30957efdfe5.png)
+
+> PhotoresistorCheck State Machine![photoresistorcheck_sm](https://user-images.githubusercontent.com/39098603/168496059-3c6e1d2c-9ec3-4e5a-ac4e-f419377140e1.png)
+
+> Joystick State Machine![joystick_sm](https://user-images.githubusercontent.com/39098603/168496110-e1fabf2f-4ef0-4118-87f1-4b19e2be618e.png)
+
+> JoystickCheck State Machine![joystickcheck_sm](https://user-images.githubusercontent.com/39098603/168496118-fcc9ddab-d5eb-4cd0-b10f-8a2671326fe2.png)
+
+> ResetButton State Machine![resetbutton_sm](https://user-images.githubusercontent.com/39098603/168496127-baaa3b1a-9fd0-4e59-abf1-556278725e33.png)
+
 
  ## Installation/Usage
  > <!--Instructions on installing and running your application-->
